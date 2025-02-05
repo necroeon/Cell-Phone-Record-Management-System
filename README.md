@@ -1,6 +1,4 @@
-
 # 🚀 Cell-Phone-Record-Management-System
-
 
 ## 🌟 Overview
 
@@ -8,10 +6,10 @@ This is a university project that I made in Fall of 2024 for the course COMP 249
 
 ## ✨ Features
 
-🔹 Linked List Management – Insert, delete, search, and replace cell phone records.
-🔹 File Handling – Load records dynamically from a file and populate the list.
-🔹 Deep Copy & Unique IDs – Prevents duplicate serial numbers with deep copying.
-🔹 Performance Tracking – Measures search operation efficiency.
+-🔹 Linked List Management – Insert, delete, search, and replace cell phone records.
+-🔹 File Handling – Load records dynamically from a file and populate the list.
+-🔹 Deep Copy & Unique IDs – Prevents duplicate serial numbers with deep copying.
+-🔹 Performance Tracking – Measures search operation efficiency.
 
 ## 📦 Installation
 
